@@ -19,3 +19,7 @@ int main(){
   return 0;
 }
 ```
+## **Let's track our progress via a List!**
+- [ ] Learn how to use Headers in Markdown
+- [ ] Learn how to insert an image in a github file via Markdown
+- [ ] Learn how to create Lists with Markdown
